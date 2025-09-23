@@ -17,3 +17,6 @@ project:
         - oauth_v20.accessTokenRefreshURLRequest
         - oauth_v20.accessTokenRefreshCustomESBService
         - oauth.consumerId
+        - oauth.consumerSecret
+        - oauth.accessToken
+        - oauth_v20.refreshToken

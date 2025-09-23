@@ -1,1 +1,25 @@
-{"name":"GoogleSheets_2209","type":"oauth2","source":"","sourceMetadata":{"providerName":"google_sheet"},"uid":"aufcc79405be8255598ed53b05ad8d71ed10b203c0","data":{"auth_type":"oauth2","provider":"google_sheet","client_id":"","client_secret":"","access_token":"","refresh_token":"","refresh_url":"https://accounts.google.com/o/oauth2/token","grant_type":"refresh_token","expires_in":3359,"scope":"https://www.googleapis.com/auth/spreadsheets https://www.googleapis.com/auth/drive","token_type":"Bearer","refresh_token_expires_in":512000,"_life_end_at":1758662726165,"_resources":{}}}
+{
+  "name": "GoogleSheets_2209",
+  "type": "oauth2",
+  "source": "",
+  "sourceMetadata": {
+    "providerName": "google_sheet"
+  },
+  "uid": "aufcc79405be8255598ed53b05ad8d71ed10b203c0",
+  "data": {
+    "auth_type": "oauth2",
+    "provider": "google_sheet",
+    "client_id": "****MASKED****",
+    "client_secret": "****MASKED****",
+    "access_token": "****MASKED****",
+    "refresh_token": "****MASKED****",
+    "refresh_url": "https://accounts.google.com/o/oauth2/token",
+    "grant_type": "refresh_token",
+    "expires_in": 3359,
+    "scope": "https://www.googleapis.com/auth/drive https://www.googleapis.com/auth/spreadsheets",
+    "token_type": "Bearer",
+    "refresh_token_expires_in": 508640,
+    "_life_end_at": 1758666086456,
+    "_resources": {}
+  }
+}
