@@ -8,3 +8,12 @@ project:
         - client_secret
         - access_token
         - refresh_token
+        - token_type
+        - refresh_token_expires_in
+    GoogleSheet_1:
+      secrets:
+        - oauth_v20.refreshAccessToken
+        - oauth_v20.accessTokenRefreshURL
+        - oauth_v20.accessTokenRefreshURLRequest
+        - oauth_v20.accessTokenRefreshCustomESBService
+        - oauth.consumerId
